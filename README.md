@@ -1,4 +1,6 @@
 # Hello-world
 just for github test
 
-# and here i just test commit changes
+
+
+# no i delete prev commit just for test, i like test everthing
